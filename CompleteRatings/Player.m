@@ -11,6 +11,7 @@
 @implementation Player
 
 @synthesize game,name,rating;
+/* Three synthesized comments! */ 
 
 
 @end
