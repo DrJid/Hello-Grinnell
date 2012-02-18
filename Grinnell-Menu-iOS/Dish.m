@@ -11,4 +11,5 @@
 @implementation Dish
 @synthesize name, venue, nutAllergen, glutenFree, vegetarian, vegan, ovolacto, hasNutrition, nutrition;
 
+//I like the way synthesize works.. 
 @end

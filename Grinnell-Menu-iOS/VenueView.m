@@ -180,6 +180,7 @@
     mainDelegate.venues = [[NSMutableArray alloc] init];
     [self getDishes];
     self.title = @"Venues";
+    //the viewdidloadmethod is actually quite funny. 
 }
 
 - (void)viewDidAppear:(BOOL)animated{
